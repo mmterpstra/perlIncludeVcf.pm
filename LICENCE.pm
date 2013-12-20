@@ -1,7 +1,7 @@
-Licence 
-===========
-The software is distributed under a GPLv2 licence
-
+Licence of perlIncludeVcf.pm
+=================
+The software is distributed under a GPLv2 licence.
+=================
 GNU GENERAL PUBLIC LICENSE
                        Version 2, June 1991
 
